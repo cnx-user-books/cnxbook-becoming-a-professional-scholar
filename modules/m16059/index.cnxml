@@ -1,0 +1,103 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>A Brief Introduction to Technical Style</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7b4d8eb9-7546-4c4f-80a5-9bad99db248b</md:uuid>
+</metadata>
+  <content>
+    <section id="id-310431839734">
+      <title>What is technical style?</title>
+      <para id="id8607953">Technical style conveys information about a scientific or engineering topic concisely and clearly. Technical style emphasizes means, actions, and results more than human agents. For example, good technical style in the following sentence places the means in the subject position: </para>
+      <para id="id9235983">
+        <quote display="block" id="idp926720">“Efficient column operation in the purification section resulted in 99.5 percent pure ethylene oxide (EO).” </quote>
+      </para>
+      <para id="id8000658">“Efficient column operation” is the means that causes the purity outcome. Contrast that sentence with one that focuses on the human agent: </para>
+      <para id="id8367041">
+        <quote display="block" id="idm8585792">“The engineer improved the column operations in the purification section to make them more efficient so that the ethylene oxide (EO) in the product stream would be 99.5 percent pure.” </quote>
+      </para>
+      <para id="id8665401">Because of the focus on means, actions, and results, technical style permits more passive voice sentences than some other styles.</para>
+      <para id="id8184268">Furthermore, technical style emphasizes accommodating the vocabulary, purposes, and decision priorities of decision makers. It ensures that documents, presentations, and visuals are accessible and understandable to the intended audience. It positively connects the writer and audience and meets professional standards. It is consistent with the audience’s culture. </para>
+      <para id="id8709663">To accomplish these aims, technical style creates syntactic structures that enable readers or listeners rapidly to identify the principal action and its cause. It also uses specific technical terms to reduce the possibility of misinterpretation. </para>
+      <para id="id7175228">Technical style affects paragraphs as well as sentences. It focuses attention consistently by repeating subjects in a series of sentences and changing subjects only when the logic of the argument requires it.</para>
+      <para id="id9128166">This brief guide introduces some of the principal techniques for editing to achieve a technical style.</para>
+      <section id="id-0319067018842">
+        <title>How to edit: Focus on the subject! Capture the action with the verb!</title>
+        <para id="id3771670">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-271158384132">
+        <title>In general, begin a sentence with its subject, that is, name what you want to talk about:</title>
+        <list list-type="bulleted" id="id6914886">
+          <item>Technical translators must know both the languages well.</item>
+          <item>The infiltration rate decreased over five years.</item>
+          <item>Slash pine forests cover the region where the highway will go.</item>
+        </list>
+      </section>
+      <section id="id-12595756242">
+        <title>Use preliminary phrases only when you need to “set the scene” or establish a condition that will help the reader make sense of your claim:</title>
+        <para id="id7127420">After turning off the power, open the right hatch door.</para>
+      </section>
+      <section id="id-102545676164">
+        <title>In most cases, use concrete subjects that form a picture in the readers’ minds:</title>
+        <list list-type="bulleted" id="id7500090">
+          <item><emphasis>Abstract</emphasis>: Input from first-line supervisors is probably the best source of information to aid in the identification of good prospective candidates.</item>
+          <item><emphasis>Concrete</emphasis>: First-line supervisors can probably identify good prospective candidates.</item>
+        </list>
+      </section>
+      <section id="id-257581660533">
+        <title>Abstractions or generalizations can be good subjects if they are the agents or means of the sentence’s main action:</title>
+        <list list-type="bulleted" id="id6874181">
+          <item>Deformations in the concrete jeopardize the roadbed’s stability.</item>
+          <item>Permeability of the soil increased infiltration. </item>
+        </list>
+      </section>
+      <section id="id-945501138328">
+        <title>Once you’ve named the subject, keep the subject consistent in a long sentence:</title>
+        <list list-type="bulleted" id="id7584669">
+          <item><emphasis>Inconsistent:</emphasis> The recently published study, conducted by Darren Harrison, who is a consultant to several major firms, has finished an extensive profile of landfill problems.</item>
+        </list>
+        <list list-type="bulleted" id="id8161526"><item><emphasis>Consistent:</emphasis> Darren Harrison, a consultant to several major firms, recently published a profile of landfill problems. 
+          <note type="Note" id="idm9768176"><label>Note</label>The author, not the study, finished the work.</note></item>
+        </list>
+        <para id="id3778153">Place precise, active verbs in key positions in the sentence to help your readers follow your argument and appreciate your expertise.</para>
+      </section>
+      <section id="id-424227036819">
+        <title>Place the subject and the main verb close together:</title>
+        <list list-type="bulleted" id="id3740039">
+          <item><emphasis>Separated:</emphasis> The <emphasis>delays</emphasis>, principally involving funding and the slow shipment of construction materials for the levies in New Orleans, <emphasis>caused</emphasis> general anxieties about quality of construction. </item>
+          <item><emphasis>Close together</emphasis>: The <emphasis>delays caused</emphasis> general anxieties about quality of construction: both funding and construction materials arrived slowly for the levies in New Orleans.</item>
+        </list>
+      </section>
+      <section id="id-851804785227">
+        <title>Free the action trapped in nouns and “place holder” verbs (verbs with low semantic meaning) by filling in the blanks.</title>
+        <para id="element-85"><emphasis>Exercise</emphasis></para><table id="id7547680" summary="">
+<tgroup cols="4"><colspec colnum="1" colname="c1" colwidth="100"/>
+            <colspec colnum="2" colname="c2" colwidth="100"/>
+            <colspec colnum="3" colname="c3" colwidth="100"/>
+            <colspec colnum="4" colname="c4" colwidth="100"/>
+            <tbody>
+              <row>
+                <entry>Make contact with</entry>
+                <entry>contact</entry>
+                <entry>Do an imitation of</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Give an approval</entry>
+                <entry/>
+                <entry>Send a referral to</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Have a harmful effect</entry>
+                <entry>harm</entry>
+                <entry>Offer an explanation</entry>
+                <entry>explain</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+      </section>
+    </section>
+  </content>
+</document>

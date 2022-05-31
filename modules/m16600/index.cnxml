@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tips on Polishing a Report</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1e27f030-c812-48c3-a221-cc6ea6b52c3c</md:uuid>
+</metadata>
+  <content>
+    <section id="id-053857168426">
+      <title>TIPS ON POLISHING THE REPORT</title>
+      <list id="id11317097" list-type="enumerated"><item>Use “find” and “replace” to locate words that your fingers mistyped and that the spelling checker recognized as correct words. Lots of us have many common typos— hthe for “the” or “noe” for “one.” Check especially for “<emphasis>then</emphasis>” (the adverb of time) when you meant “<emphasis>than</emphasis>” (to indicate a comparison; “taller than he was”) and the following: <list list-type="bulleted" id="id11317126"><item>coal “<emphasis>seem</emphasis>” where you meant “coal <emphasis>seam</emphasis>”</item><item>“<emphasis>where</emphasis>” where you meant “<emphasis>were</emphasis>”</item></list></item>
+        <item>Use “few” or “fewer” (comparative) with COUNTABLES. For example, resources can be counted. Say “few resources.” Use “less” with UNCOUNTABLES. For example, visibility or leadership can’t be counted. Write “less visibility” or “less leadership.”</item>
+        <item>In business style, use a singular pronoun to refer to a company (for example, “This cost will reduce <emphasis>ABC’s</emphasis> barriers to entry and improve its rate of acceptance . . . .”). Use a plural only when you are referring to a company’s management: “Cisco fought back against AJAX Corp. <emphasis>They</emphasis> voted to reject AJAX’s hostile bid.”</item>
+        <item>Make sure the introduction and the summary are perfect. In the following example the word “be” is needlessly duplicated: “. . . revenue would be potentially be pure profit. . . .”</item>
+        <item>When you have two clauses in a sentence and intend to show contrast between them with the word “however,” you must put a semicolon BEFORE the word “however” and a comma after it. Use the find command to locate instances of “however” that join clauses. 
+<list list-type="bulleted" id="however"><item>For example: In FY 2004/05, the agency achieved a total water savings that was 15.4 percent below the targeted amount of 16,016 AFY; however, the water savings achieved through landscaping initiatives exceeded the target by 22.4 percent.</item></list>
+When “however” functions merely as an adverb, a comma on both sides is enough: “Martial law, however, disrupted the refining of petroleum in the region.” Here “however” means “nonetheless.”</item>
+        <item>Introduce figures, insert them, then discuss them. <emphasis>Don’t put in any figures you don’t discuss.</emphasis> Introduce the figure <emphasis>before</emphasis> it occurs in the text. If you capitalize “Figure” in the figure title (which goes below the figure), capitalize it in the discussion. Your reader is thinking, “Tell me what I’m going to see and then tell me how to interpret what you’ve shown in the figure.”</item>
+        
+        <item>The bibliography should be in the same font as the rest of the paper, but in smaller point size. </item>
+        <item>Separate parts of a reference end with periods. There’s a period at the end of each part in all major citation styles. Do look up one and learn the basic types.
+         <list list-type="bulleted" id="apa"><item>American Psychological Association (APA) style has four parts, each ending with a period: Last name, F. (date). Title of book. Publication information.</item>
+<item>If the author is not an individual, use the association name or if no source can be identified, use a blank underscored space: ________. (Date). Title of source. Publication city, ST: Publisher.</item></list>
+ 
+         </item>
+        <item>A document doesn’t carry your tone of voice, gestures, or pauses. A sentence that can be understood when spoken may sound awkward when read silently. The writer should change “All costs we either recently obtained quotes on or are past operational costs inflated to reflect today’s prices” to “The costs below are based either on quotes recently obtained or on past operational costs inflated to reflect today’s prices.” (You probably had to read that first version more than once to make sense of it; the difficulty you encountered illustrates this kind of problem.) </item>
+ 
+        <item>Make sure sentences have both a subject and a predicate and that adverbs do not create ambiguous readings. The following sentence from an internship draft would be correctly understood if the writer spoke it with a pause following “after”: “Shortly after the well was plugged between the 2nd and 3rd coal seams.” However, a reader would be entitled to think the writer had begun with a dependent clause when no comma follows “after,” as you would if you started to read the following: “Shortly after the semester began, two students left the program.” If the writer puts a comma between “after” and “the well,” the reader will understand correctly on the first reading. </item>
+        <item>Also, put a comma after “first” or “second” or any other ordinal number that might be misread if the reader thought it modified the noun that followed it. Don’t write “Second measurements were taken” if you mean that after a first step that didn’t involve measurements, you took measurements for the first time. Write, “Second, measurements were taken.” Do not use “firstly” or “secondly.” That form is no longer acceptable in technical documents. Use “first” and “second.”</item>
+        <item>Write out the meaning of symbols the first time you use them. Write out Fahrenheit the first time with (F) in parentheses. Afterward, just use F to indicate Fahrenheit. </item>
+        <item>A smooth, fast start puts the agent in the subject position and the action in the verb. 
+        <list list-type="bulleted" id="verb"><item><emphasis>Original:</emphasis> “Firstly, it is the hope of the company that the satisfaction of the energy needs of the field can result from methane reserves from the coals within the lease area.”</item>
+        <item><emphasis>Fast start:</emphasis> “The company expects the lease area’s methane reserves to supply fuel for the field.”</item>
+</list>
+</item>
+        <item>If you want to be recognized for your accomplishments in a business situation, you need to document your own responsibilities and achievements. Don’t disappear in the report. The manager who needs the report needs to be able to tell which steps in the project YOU completed and which have been performed by others. </item>
+       <item>If you are writing a business report and your project did not produce a positive opportunity for the company, you may write about the conditions under which it might do so in the future. For example, say that "although the project is not feasible now, under other conditions (lower interest rate, lower tax rate, increased volume of sales, etc.) the opportunity should be considered." </item>
+      </list>
+      <para id="id8019356">Look for answers to other questions of usage and style in a resource such as <cite><cite-title>Management Communication: A Guide</cite-title></cite>, by Deborah C. Andrews and William Andrews (2003).</para>
+    </section>
+  </content>
+</document>
